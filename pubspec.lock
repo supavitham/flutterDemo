@@ -13,7 +13,7 @@ packages:
     description:
       path: "."
       ref: HEAD
-      resolved-ref: f073a87633b1a4dd334fb4e0d8a1fec99f0f519b
+      resolved-ref: ac4edf8428c6d4d702037ca332d14563ff00214e
       url: "https://github.com/supavitham/addToAppEkyc"
     source: git
     version: "1.0.0+1"

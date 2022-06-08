@@ -1,4 +1,6 @@
 include ':app'
+//TODO:
+include ':facetec-sdk-9.4.2'
 
 def localPropertiesFile = new File(rootProject.projectDir, "local.properties")
 def properties = new Properties()
